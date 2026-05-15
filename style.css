@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: crimson;
+}
+
+.container{
+    width: 1301px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nav-link{
+    display: inline-block;
+    margin-left: 626px;
+}
+
+.nav-link li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.nav-link li a{
+    color: white;
+}
+
+header{
+    padding-top: 26pxpx;
+    padding-bottom: 26px;
+}
+
+.button{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    
+}
+
